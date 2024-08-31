@@ -1,11 +1,12 @@
 {
   "record": {
-    "URL": "https://flymeth.net"
+    "CNAME": "https://flyweb-v2.netlify.app/"
   },
+  "repo": "https://github.com/Flymeth",
   "owner": {
     "username": "Flymeth",
     "email": "flymeth.yt@gmail.com",
     "twitter": "flymeth"
   },
-  "description": "I'm a dev and I love to be that"
+  "description": "I'm a web dev and I love to be that"
 }
